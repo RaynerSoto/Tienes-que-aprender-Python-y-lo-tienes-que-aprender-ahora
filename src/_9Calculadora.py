@@ -1,5 +1,5 @@
 #Este ejercicio tiene cosas avanzadas en el curso, pero me apetecía hacerlo de la mejor manera posible
-def calculadora(valor = 0.0,iteration = False):
+def calculadora(valor = 0,iteration = False):
     print(valor)
     if valor == 0 and iteration == False:
         operando = input('Ingrese el valor\n')
@@ -34,4 +34,3 @@ def calculadora(valor = 0.0,iteration = False):
                 calculadora()
         finally:
             calculadora(valor,True)
-calculadora()

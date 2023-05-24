@@ -13,7 +13,4 @@ def funciones_math():
     print(math.isfinite(9.8)) #X es una valor finito o infinito
     print(math.isinf(9)) # X es una valor infinito tanto positivo como negativo
     print(math.isnan(10)) # X es una valor natural o no
-
     #Existen muchas otras funciones del módulo math enlace:
-
-funciones_math()

@@ -2,7 +2,7 @@ import math
 def numeros():
     entero = 9 #Número entero
     decimal = 9.899 # Número decimal o fraccionario
-    imaginario = 2 + 2j
+    imaginario = 2 + 2j #Número imaginario
     print(entero)
     print(decimal)
     print(imaginario)
@@ -20,4 +20,3 @@ def numeros():
     valor = 3
     valor += 3
     print(valor) # Reemplazando el ejemplo de arriba
-numeros()
