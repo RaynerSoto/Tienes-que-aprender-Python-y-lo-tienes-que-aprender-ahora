@@ -28,3 +28,16 @@ Juan o Arturo pueden venir: En este caso puede uno de los 2 cumplir la misión p
 dos la expresión será verdadera(operador or)
 
 Not: Negará el resultado de una operación
+
+Nota importante para desarrolladores experimentados en otros lenguajes:
+En Python hay muchas cosas que cambian, pero ahi otras que se mantienen exactamente iguales, por tanto debes ver que 
+necesitas del curso que aprendí o que notas mías debes leer o aprender porque no todas te serán necesarias. Yo para 
+aprender utilizo la política de todo nuevo para que cada vez que intente aprender entro con la mentalidad de que debo 
+aprender de nuevo como un niño para así no perderme nada. Yo te recomiendo diversos temas a ver por ejemplo, yo 
+desarrollo en Java y C por tanto si vienes similar a mí y demás te recomiendo:
+-El archivo 8 por sus metodos
+-Todo lo relacionado con el ciclo for
+
+Los ciclos infinitos son aquellos ciclos con condiciones que nunca se cumplen y que se ejecutan para siempre. Estos se 
+pueden detener con el uso del break para así evitar el exceso de repeticiones
+En el archivo 18 hay un ejemplo que por el bien de tu PC te recomiendo no ejecutar por mucho tiempo
