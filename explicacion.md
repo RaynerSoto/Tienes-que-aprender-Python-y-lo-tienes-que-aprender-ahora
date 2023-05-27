@@ -1,6 +1,6 @@
 No conozco el nombre de la persona del curso, pero igual publicaré todo lo que aprendo con ellos al igual que haré con 
 cada curso que realice, gracias al creador de contenido en cuando tenga su nombre lo publicaré junto con un enlace para 
-su canal.
+su canal. Ya busqué el canal se llama HolaMundo
 Una cosa más, yo desarrollo funciones específicas por tanto se puede decir que no sigo exactamente las cosas que el hace
 a la hora de desarrollar, pero ve adaptándote ya que en la programación bien estructurada, casi todo es a través de 
 funciones
