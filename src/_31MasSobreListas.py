@@ -5,5 +5,9 @@ def listas():
     print(nombres)
     nombres = [jugador[0] for jugador in jugadores_favoritos if jugador[1] >=7]
     print(nombres)
+    nombre = list(map(lambda el:el[0],jugadores_favoritos))
+    print(nombre)
+    combo = list(filter(lambda el:el[1]>6,jugadores_favoritos))
+    print(combo)
 
 listas()
